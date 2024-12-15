@@ -16,9 +16,7 @@ This application showcases the capabilities of WebSocket by implementing a [brie
 
 Features
 Real-time Communication: Utilize WebSocket's bidirectional communication to achieve real-time updates between clients and the server.
-[Feature 1 Name]: [Brief description of the feature]
-[Feature 2 Name]: [Brief description of the feature]
-...
+
 Installation
 Follow these steps to get the WebSocket Application up and running on your local machine:
 
@@ -27,12 +25,11 @@ Navigate to the project directory: cd websocket-application
 Install dependencies: npm install
 Start the server: npm start
 Open your web browser and visit: http://localhost:3000
-Usage
-[Explain how users can effectively use your application. Provide examples and screenshots if applicable.]
+
 
 Technologies Used
 WebSocket
-[Other technologies/libraries your application depends on]
+
 Contributing
 Contributions are welcome and encouraged! Here's how you can contribute to the project:
 
